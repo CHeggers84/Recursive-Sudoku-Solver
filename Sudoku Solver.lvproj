@@ -22,7 +22,6 @@
 			<Item Name="ValidateNumInRow.vi" Type="VI" URL="../SubVIs/ValidateNumInRow.vi"/>
 			<Item Name="ValidateNumInSquare.vi" Type="VI" URL="../SubVIs/ValidateNumInSquare.vi"/>
 			<Item Name="InsertCell.vi" Type="VI" URL="../SubVIs/InsertCell.vi"/>
-			<Item Name="GoToNextCell.vi" Type="VI" URL="../SubVIs/GoToNextCell.vi"/>
 		</Item>
 		<Item Name="Sudoku Solver.vi" Type="VI" URL="../Sudoku Solver.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
